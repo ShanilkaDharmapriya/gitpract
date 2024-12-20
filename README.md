@@ -1,2 +1,4 @@
 # gitpract
-dasdsafadfasfasfasf
+modifiedd
+
+new git 
